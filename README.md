@@ -1,2 +1,0 @@
-# PatternsGOF
-Homeworks
